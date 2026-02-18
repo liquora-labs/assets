@@ -1,0 +1,1198 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 501000101,
+  "timestamp": "2026-02-18T23:25:14.273Z",
+  "tokenCount": 170,
+  "tokens": [
+    {
+      "address": "5mbk36sz7j19an8jfochhqs4of8g6bwujbecsxbsowdp",
+      "name": "michi",
+      "symbol": "$MICHI",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/5mbk36sz7j19an8jfochhqs4of8g6bwujbecsxbsowdp.png"
+    },
+    {
+      "address": "j6pqq3facjqewppgppwrb4nm8ju3wlyybrrlh7femfvd",
+      "name": "DoubleZero",
+      "symbol": "2Z",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/j6pqq3facjqewppgppwrb4nm8ju3wlyybrrlh7femfvd.png"
+    },
+    {
+      "address": "5maydfq5yxtudahtfyumbuhzjgabas9tbeyeqyahds5y",
+      "name": "Access Protocol",
+      "symbol": "ACS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/5maydfq5yxtudahtfyumbuhzjgabas9tbeyeqyahds5y.png"
+    },
+    {
+      "address": "gjafwwjj3vntsrqvabjbvk2tyb1ytrcqxrdfdgunpump",
+      "name": "Act I The AI Prophecy",
+      "symbol": "ACT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/gjafwwjj3vntsrqvabjbvk2tyb1ytrcqxrdfdgunpump.png"
+    },
+    {
+      "address": "help6nuqkmyb4pywo2zys22meshxpqyzxbb8n4v98jwc",
+      "name": "ai16z",
+      "symbol": "AI16Z",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/help6nuqkmyb4pywo2zys22meshxpqyzxbb8n4v98jwc.png"
+    },
+    {
+      "address": "14zp2toq79xwvc7fqpm4brnp9d6mp1rffsuw3gplcrx",
+      "name": "aixbt",
+      "symbol": "AIXBT",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/14zp2toq79xwvc7fqpm4brnp9d6mp1rffsuw3gplcrx.png"
+    },
+    {
+      "address": "hng5pyjmtqcmzxrv6s9zp1cdkk5bgduyfbxbvnapump",
+      "name": "Alchemist AI",
+      "symbol": "ALCH",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/hng5pyjmtqcmzxrv6s9zp1cdkk5bgduyfbxbvnapump.png"
+    },
+    {
+      "address": "9wvorgtbj8gylorftmwxwcympogvubn6mrzhwfpcdcec",
+      "name": "Artificial Liquid Intelligence",
+      "symbol": "ALI",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/9wvorgtbj8gylorftmwxwcympogvubn6mrzhwfpcdcec.png"
+    },
+    {
+      "address": "9mcvh6w97oewlmpxqqeohuav3u5iymyq9aezzhguyf1t",
+      "name": "Hey Anon",
+      "symbol": "ANON",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/9mcvh6w97oewlmpxqqeohuav3u5iymyq9aezzhguyf1t.png"
+    },
+    {
+      "address": "26s3ugb9hund1qspapy1zygcritxaoogg7o63bmn89yq",
+      "name": "Apu Apustaja",
+      "symbol": "APU",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/26s3ugb9hund1qspapy1zygcritxaoogg7o63bmn89yq.png"
+    },
+    {
+      "address": "61v8vbaqagmpgdqi4jcawo1dmbghsyhzodcpqnevpump",
+      "name": "AI Rig Complex",
+      "symbol": "ARC",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/61v8vbaqagmpgdqi4jcawo1dmbghsyhzodcpqnevpump.png"
+    },
+    {
+      "address": "asrrja1r4rhvk5h9qkkm1jaqqmkxvv6nh5eypprvwmxq",
+      "name": "Assisterr AI",
+      "symbol": "ASRR",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/asrrja1r4rhvk5h9qkkm1jaqqmkxvv6nh5eypprvwmxq.png"
+    },
+    {
+      "address": "dm5bxymetg3aq5pag1brg7rbyqemtnkjvpnmexfacvk7",
+      "name": "Aethir",
+      "symbol": "ATH",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/dm5bxymetg3aq5pag1brg7rbyqemtnkjvpnmexfacvk7.png"
+    },
+    {
+      "address": "atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx",
+      "name": "Star Atlas",
+      "symbol": "ATLAS",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/atlasxmbpqxbuybxpsv97usa3fpqyeqzqbuhgifcusxx.png"
+    },
+    {
+      "address": "auddttiepcydtm7joumbyddm72jawxzncppztdoxqbsw",
+      "name": "Australian Digital Dollar",
+      "symbol": "AUDD",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/auddttiepcydtm7joumbyddm72jawxzncppztdoxqbsw.png"
+    },
+    {
+      "address": "9lzcmqdgtkyz9drzqnpgee3sga89up3a247ypmj2xrqm",
+      "name": "Audius",
+      "symbol": "AUDIO",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/9lzcmqdgtkyz9drzqnpgee3sga89up3a247ypmj2xrqm.png"
+    },
+    {
+      "address": "dtr4d9ftvotx2569gal837zgrb6wnjj6tkmnx9rdk9b2",
+      "name": "aura",
+      "symbol": "AURA",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/dtr4d9ftvotx2569gal837zgrb6wnjj6tkmnx9rdk9b2.png"
+    },
+    {
+      "address": "dku9kyksfbn5lbffxtnndpax35o4fv6vj9fkk7pzpump",
+      "name": "Ava AI",
+      "symbol": "AVA",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/dku9kyksfbn5lbffxtnndpax35o4fv6vj9fkk7pzpump.png"
+    },
+    {
+      "address": "epeufdghrxs9xxepval6kfgqvcon7jmawkvuhuux1tpz",
+      "name": "Basic Attention",
+      "symbol": "BAT",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/epeufdghrxs9xxepval6kfgqvcon7jmawkvuhuux1tpz.png"
+    },
+    {
+      "address": "hgbrwfyxefvphtqkaeymcqthcrke46qq43pke8hcpump",
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/hgbrwfyxefvphtqkaeymcqthcrke46qq43pke8hcpump.png"
+    },
+    {
+      "address": "bioj9jtqw62mlz7ukhu69gtkhppgi1bqhccj2kmsvuj",
+      "name": "Bio Protocol",
+      "symbol": "BIO",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/bioj9jtqw62mlz7ukhu69gtkhppgi1bqhccj2kmsvuj.png"
+    },
+    {
+      "address": "g7vqwurmkmmm2du3izpxyftht9biio4f4gzcrwfpknwg",
+      "name": "Moonbirds",
+      "symbol": "BIRB",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/g7vqwurmkmmm2du3izpxyftht9biio4f4gzcrwfpknwg.png"
+    },
+    {
+      "address": "ctgiazuk12kccb8sosn4nt2nztzlgtpqdwyqyr2syatc",
+      "name": "HarryPotterObamaSonic10Inu (ETH)",
+      "symbol": "BITCOIN",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/ctgiazuk12kccb8sosn4nt2nztzlgtpqdwyqyr2syatc.png"
+    },
+    {
+      "address": "a1t2uvibywyfyzdjyky2w6td8ritgscriudunaaqn49s",
+      "name": "Bless",
+      "symbol": "BLESS",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/a1t2uvibywyfyzdjyky2w6td8ritgscriudunaaqn49s.png"
+    },
+    {
+      "address": "fqgtfugbdpfn7pz6ndprzpvldbrpgxxesi4gvu3verhy",
+      "name": "Bubblemaps",
+      "symbol": "BMT",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/fqgtfugbdpfn7pz6ndprzpvldbrpgxxesi4gvu3verhy.png"
+    },
+    {
+      "address": "3psh1mj1f7yufad5gh6zj7epe8hhrmkmetgv5tshqa4o",
+      "name": "Jeo Boden",
+      "symbol": "BODEN",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/3psh1mj1f7yufad5gh6zj7epe8hhrmkmetgv5tshqa4o.png"
+    },
+    {
+      "address": "ukhh6c7mmyiwcf1b9pnwe25tspkddt3h5pqzgz74j82",
+      "name": "BOOK OF MEME",
+      "symbol": "BOME",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/ukhh6c7mmyiwcf1b9pnwe25tspkddt3h5pqzgz74j82.png"
+    },
+    {
+      "address": "dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263",
+      "name": "Bonk",
+      "symbol": "BONK",
+      "decimals": 5,
+      "logoURI": "http://localhost:3000/tokens/dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263.png"
+    },
+    {
+      "address": "c98a4nkjxhpvznazdhua95rptf3t4whtqubl3yobiux9",
+      "name": "Coin98",
+      "symbol": "C98",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/c98a4nkjxhpvznazdhua95rptf3t4whtqubl3yobiux9.png"
+    },
+    {
+      "address": "4qqez5lwsz6huupuu8jctgxyw1myqcnbfaw1swzp89hl",
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/4qqez5lwsz6huupuu8jctgxyw1myqcnbfaw1swzp89hl.png"
+    },
+    {
+      "address": "afjtnuqgmaj5jao6pwxo28r1f7xaxxtsa8q3rg3q8b4a",
+      "name": "CARV",
+      "symbol": "CARV",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/afjtnuqgmaj5jao6pwxo28r1f7xaxxtsa8q3rg3q8b4a.png"
+    },
+    {
+      "address": "3jomreccsesngjepflokr2dncchjsrcdtybqet5uspse",
+      "name": "Simon's Cat",
+      "symbol": "CAT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/3jomreccsesngjepflokr2dncchjsrcdtybqet5uspse.png"
+    },
+    {
+      "address": "6dkcowjpj5mfu5gwdefdpuuebasblk3wlewhuzqpaa1e",
+      "name": "Chintai",
+      "symbol": "CHEX",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/6dkcowjpj5mfu5gwdefdpuuebasblk3wlewhuzqpaa1e.png"
+    },
+    {
+      "address": "df6yfrkc8kze3knkrherkzaetsxbrweniqfyjy4jpump",
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUY",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/df6yfrkc8kze3knkrherkzaetsxbrweniqfyjy4jpump.png"
+    },
+    {
+      "address": "gkypya7nncfbdulkncfbfp7p8564x1vzhwzyj6czpump",
+      "name": "Chill House",
+      "symbol": "CHILLHOUSE",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/gkypya7nncfbdulkncfbfp7p8564x1vzhwzyj6czpump.png"
+    },
+    {
+      "address": "cloudkc4ane7heqcppe3yhnznrxhmimj4myauqyhfzau",
+      "name": "Cloud",
+      "symbol": "CLOUD",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/cloudkc4ane7heqcppe3yhnznrxhmimj4myauqyhfzau.png"
+    },
+    {
+      "address": "apqlh7ovtbeejgbmxh8udnbttwr9k5jev9pnnvqv7xsa",
+      "name": "Corn",
+      "symbol": "CORN",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/apqlh7ovtbeejgbmxh8udnbttwr9k5jev9pnnvqv7xsa.png"
+    },
+    {
+      "address": "aexrlftu8chuy4ctc6odeg4dux6yr4aqeakumfnvacdg",
+      "name": "Clearpool",
+      "symbol": "CPOOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/aexrlftu8chuy4ctc6odeg4dux6yr4aqeakumfnvacdg.png"
+    },
+    {
+      "address": "dbridgjamsm95motzjs7m9lnkgerpbv9v6cur1dxnuu5",
+      "name": "deBridge",
+      "symbol": "DBR",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/dbridgjamsm95motzjs7m9lnkgerpbv9v6cur1dxnuu5.png"
+    },
+    {
+      "address": "a7n89lqw67hjkzjkdwza2xojuk4n5gbkhz3dfjatczpz",
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/a7n89lqw67hjkzjkdwza2xojuk4n5gbkhz3dfjatczpz.png"
+    },
+    {
+      "address": "dog1viwbb2vwdper5frj4yfg6gq6xuyfohue9txn65u",
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG",
+      "decimals": 5,
+      "logoURI": "http://localhost:3000/tokens/dog1viwbb2vwdper5frj4yfg6gq6xuyfohue9txn65u.png"
+    },
+    {
+      "address": "dvjbesdca43oqcw2h3hw1ct7n3x5vrcr3qrvtuhnxvgv",
+      "name": "Doodles",
+      "symbol": "DOOD",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/dvjbesdca43oqcw2h3hw1ct7n3x5vrcr3qrvtuhnxvgv.png"
+    },
+    {
+      "address": "driftupjyltosbwon8kombeysx54afavlddwsbksjwg7",
+      "name": "Drift Protocol",
+      "symbol": "DRIFT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/driftupjyltosbwon8kombeysx54afavlddwsbksjwg7.png"
+    },
+    {
+      "address": "7zcm8wbn9ala3o47soyctu6ildj7wkgg5sv2he5cgtd5",
+      "name": "Dogelon Mars",
+      "symbol": "ELON",
+      "decimals": 4,
+      "logoURI": "http://localhost:3000/tokens/7zcm8wbn9ala3o47soyctu6ildj7wkgg5sv2he5cgtd5.png"
+    },
+    {
+      "address": "bqpqrrquoqxfggeaemnpmdgz6rwqcajwny3v6yp4dzwp",
+      "name": "Eclipse",
+      "symbol": "ES",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/bqpqrrquoqxfggeaemnpmdgz6rwqcajwny3v6yp4dzwp.png"
+    },
+    {
+      "address": "28g7z3vyhdfnhrnvstf1gsskogrtcrdiguasqy2bshif",
+      "name": "EstateX",
+      "symbol": "ESX",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/28g7z3vyhdfnhrnvstf1gsskogrtcrdiguasqy2bshif.png"
+    },
+    {
+      "address": "hzwqbkzw8hxmn6bf2yfznrht3c2ixxzpkcfu7ubedktr",
+      "name": "EURC",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/hzwqbkzw8hxmn6bf2yfznrht3c2ixxzpkcfu7ubedktr.png"
+    },
+    {
+      "address": "9bb6nfecjbctnnlfko2fqvqbq8hhm13kcyycdqbgpump",
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/9bb6nfecjbctnnlfko2fqvqbq8hhm13kcyycdqbgpump.png"
+    },
+    {
+      "address": "echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp",
+      "name": "Bonfida",
+      "symbol": "FIDA",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/echesyfxepkdltoizsl8pbe8myagyy8zrqsacncfgnvp.png"
+    },
+    {
+      "address": "8f62nyjgo7he5uweveta2jjqf4xzf8aqxkmzxrq3mxfu",
+      "name": "FIGHT",
+      "symbol": "FIGHT",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/8f62nyjgo7he5uweveta2jjqf4xzf8aqxkmzxrq3mxfu.png"
+    },
+    {
+      "address": "6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct",
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/6lx8bhmq4sy2otmawj7y5skd9ytvvugfmsbzt6b9w7ct.png"
+    },
+    {
+      "address": "a8c3xuqscfmylrte3vmtqraq8kgmasius9afnanwpump",
+      "name": "Fwog",
+      "symbol": "FWOG",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/a8c3xuqscfmylrte3vmtqraq8kgmasius9afnanwpump.png"
+    },
+    {
+      "address": "ckaktyvz6dkpymvyq9rh3ubrnnqyzayd7if4hjtjuvks",
+      "name": "Gari Network",
+      "symbol": "GARI",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/ckaktyvz6dkpymvyq9rh3ubrnnqyzayd7if4hjtjuvks.png"
+    },
+    {
+      "address": "4tbi66vi32s7j8x1a6ewfalhymuxu7cstcemsjqdpump",
+      "name": "Ghiblification",
+      "symbol": "GHIBLI",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/4tbi66vi32s7j8x1a6ewfalhymuxu7cstcemsjqdpump.png"
+    },
+    {
+      "address": "63lfdmnb3mq8mw9mtz2to9bea2m71kzuugq5tijxcqj9",
+      "name": "Gigachad",
+      "symbol": "GIGA",
+      "decimals": 5,
+      "logoURI": "http://localhost:3000/tokens/63lfdmnb3mq8mw9mtz2to9bea2m71kzuugq5tijxcqj9.png"
+    },
+    {
+      "address": "7i5kksx2weitkry7ja4zwsuxghs5ejbejy8vvxr4pfrx",
+      "name": "GMT",
+      "symbol": "GMT",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/7i5kksx2weitkry7ja4zwsuxghs5ejbejy8vvxr4pfrx.png"
+    },
+    {
+      "address": "czlsujwblfssjncfkh59rufqvafwcy5tzedwjsuypump",
+      "name": "Goatseus Maximus",
+      "symbol": "GOAT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/czlsujwblfssjncfkh59rufqvafwcy5tzedwjsuypump.png"
+    },
+    {
+      "address": "3kzae8dpyjrgz36eh81v7wpwi6dm7bdhdmb8eaus2raf",
+      "name": "GoMining Token",
+      "symbol": "GOMINING",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/3kzae8dpyjrgz36eh81v7wpwi6dm7bdhdmb8eaus2raf.png"
+    },
+    {
+      "address": "grass7b4rdkfbcjtkgsqnxkqjwigvqyfbuscujr3xxjs",
+      "name": "Grass",
+      "symbol": "GRASS",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/grass7b4rdkfbcjtkgsqnxkqjwigvqyfbuscujr3xxjs.png"
+    },
+    {
+      "address": "kenjsuylashumfhyy5o4hp2fdnqzg1asuphfh2kyvep",
+      "name": "GRIFFAIN",
+      "symbol": "GRIFFAIN",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/kenjsuylashumfhyy5o4hp2fdnqzg1asuphfh2kyvep.png"
+    },
+    {
+      "address": "afbx8ogjgpmvfywbvouvhqsrmiw2ar1mohfahi4y2adb",
+      "name": "STEPN Green Satoshi Token on Solana",
+      "symbol": "GST-SOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/afbx8ogjgpmvfywbvouvhqsrmiw2ar1mohfahi4y2adb.png"
+    },
+    {
+      "address": "3juf2rtyxp867pisb2dt8uucnildw58asjgtxkrakbbe",
+      "name": "Gunz",
+      "symbol": "GUN",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/3juf2rtyxp867pisb2dt8uucnildw58asjgtxkrakbbe.png"
+    },
+    {
+      "address": "hntyvp6yfm1hg25tn9wglqm12b8tqmcknkrdu1oxwux",
+      "name": "Helium",
+      "symbol": "HNT",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/hntyvp6yfm1hg25tn9wglqm12b8tqmcknkrdu1oxwux.png"
+    },
+    {
+      "address": "j3umbwqhsjd13sag1e1auojviwvpya5dfnyqpkux3wxj",
+      "name": "HOME",
+      "symbol": "HOME",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/j3umbwqhsjd13sag1e1auojviwvpya5dfnyqpkux3wxj.png"
+    },
+    {
+      "address": "4vmsout2bwatfweudnqm1xedrlfjgj7hswhcpz4xgbty",
+      "name": "Hivemapper",
+      "symbol": "HONEY",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/4vmsout2bwatfweudnqm1xedrlfjgj7hswhcpz4xgbty.png"
+    },
+    {
+      "address": "dithyrmqisdhn5cnkmjv2cddt6svct96yrecim49pump",
+      "name": "Housecoin",
+      "symbol": "HOUSE",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/dithyrmqisdhn5cnkmjv2cddt6svct96yrecim49pump.png"
+    },
+    {
+      "address": "bzlbgtncsffoth2gydtwr7e4imwzpr5jqcuugewr646k",
+      "name": "io.net",
+      "symbol": "IO",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/bzlbgtncsffoth2gydtwr7e4imwzpr5jqcuugewr646k.png"
+    },
+    {
+      "address": "axriehr6xw3adzhopnvmn7gcprfcd41ddpitwmg6pump",
+      "name": "Stool Prisondente",
+      "symbol": "JAILSTOOL",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/axriehr6xw3adzhopnvmn7gcprfcd41ddpitwmg6pump.png"
+    },
+    {
+      "address": "j1toso1uck3rlmjorhttrvwy9hj7x8v9yyac6y7kgcpn",
+      "name": "Jito Staked SOL",
+      "symbol": "JITOSOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/j1toso1uck3rlmjorhttrvwy9hj7x8v9yyac6y7kgcpn.png"
+    },
+    {
+      "address": "jtojtomepa8bep8auqc6ext5frijwffmwqx2v2f9mcl",
+      "name": "Jito",
+      "symbol": "JTO",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/jtojtomepa8bep8auqc6ext5frijwffmwqx2v2f9mcl.png"
+    },
+    {
+      "address": "jupyiwryjfskupiha7hker8vutaefosybkedznsdvcn",
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/jupyiwryjfskupiha7hker8vutaefosybkedznsdvcn.png"
+    },
+    {
+      "address": "erpdpymuifjukbab1dv9hnj67rm21jujmxz18jcedzbr",
+      "name": "Sidekick",
+      "symbol": "K",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/erpdpymuifjukbab1dv9hnj67rm21jujmxz18jcedzbr.png"
+    },
+    {
+      "address": "kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6",
+      "name": "Kin",
+      "symbol": "KIN",
+      "decimals": 5,
+      "logoURI": "http://localhost:3000/tokens/kinxdecpdqehpeuqnqmugtyykqkgvfq6cevx5iahjq6.png"
+    },
+    {
+      "address": "kmno3njsbxfcpjtvhzcxlw7rmtwtt4gvfe7suubo9ss",
+      "name": "Kamino",
+      "symbol": "KMNO",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/kmno3njsbxfcpjtvhzcxlw7rmtwtt4gvfe7suubo9ss.png"
+    },
+    {
+      "address": "5k84vjakogpxa7ias1bngkurx7e61empwhzdqsid4bpe",
+      "name": "Layer3",
+      "symbol": "L3",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/5k84vjakogpxa7ias1bngkurx7e61empwhzdqsid4bpe.png"
+    },
+    {
+      "address": "layer4xpptcb3ql8s9u41eahax7mhbn8q6xmtwy2yzc",
+      "name": "Solayer",
+      "symbol": "LAYER",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/layer4xpptcb3ql8s9u41eahax7mhbn8q6xmtwy2yzc.png"
+    },
+    {
+      "address": "linkhb3afbbkb2eqqu7s7umdzcev3wcvaujhqafq23l",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/linkhb3afbbkb2eqqu7s7umdzcev3wcvaujhqafq23l.png"
+    },
+    {
+      "address": "8ki8dpuwnxu9vss3kqbarscwmcfgwkzza8pupto9zbd5",
+      "name": "LOCK IN",
+      "symbol": "LOCKIN",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/8ki8dpuwnxu9vss3kqbarscwmcfgwkzza8pupto9zbd5.png"
+    },
+    {
+      "address": "3sfanvyjiq5uzczvyizadzbthqqtnbr6rbgdxvmfcn5p",
+      "name": "Liquid Staked SOL",
+      "symbol": "LSSOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/3sfanvyjiq5uzczvyizadzbthqqtnbr6rbgdxvmfcn5p.png"
+    },
+    {
+      "address": "caga7pddfxs65gznqwp42kbhkjqdceofvt7aqyo8jr8q",
+      "name": "MATH",
+      "symbol": "MATH",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/caga7pddfxs65gznqwp42kbhkjqdceofvt7aqyo8jr8q.png"
+    },
+    {
+      "address": "mefnbxixkebait3xn9bkm8wsjzxtvsajen4c8sam21u",
+      "name": "Magic Eden",
+      "symbol": "ME",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/mefnbxixkebait3xn9bkm8wsjzxtvsajen4c8sam21u.png"
+    },
+    {
+      "address": "fuafbo2jgks6gb4z4lfzkqszgznucisehqnnebarxm1p",
+      "name": "Melania Meme",
+      "symbol": "MELANIA",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/fuafbo2jgks6gb4z4lfzkqszgznucisehqnnebarxm1p.png"
+    },
+    {
+      "address": "metvsvvrapdj9cflzq4tr43xk4tajqfwx76z3n6mwql",
+      "name": "Meteora",
+      "symbol": "MET",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/metvsvvrapdj9cflzq4tr43xk4tajqfwx76z3n6mwql.png"
+    },
+    {
+      "address": "mew1gqwj3nexg2qgeriku7fafj79phvqvrequzscpp5",
+      "name": "cat in a dogs world",
+      "symbol": "MEW",
+      "decimals": 5,
+      "logoURI": "http://localhost:3000/tokens/mew1gqwj3nexg2qgeriku7fafj79phvqvrequzscpp5.png"
+    },
+    {
+      "address": "moonthzekktvonb7v6yvcqit56jydz1on185ba3wizl",
+      "name": "Moonwalk Fitness",
+      "symbol": "MF",
+      "decimals": 4,
+      "logoURI": "http://localhost:3000/tokens/moonthzekktvonb7v6yvcqit56jydz1on185ba3wizl.png"
+    },
+    {
+      "address": "m1m6sdffcs3ozzhprvewercwdzhxth4mvvujptyec3h",
+      "name": "MAGIC•INTERNET•MONEY (Bitcoin)",
+      "symbol": "MIM",
+      "decimals": 2,
+      "logoURI": "http://localhost:3000/tokens/m1m6sdffcs3ozzhprvewercwdzhxth4mvvujptyec3h.png"
+    },
+    {
+      "address": "8dmhzumkdssgeycyijfdhkmeuvilbn4gndh8w6qkpp7i",
+      "name": "Black Mirror",
+      "symbol": "MIRROR",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/8dmhzumkdssgeycyijfdhkmeuvilbn4gndh8w6qkpp7i.png"
+    },
+    {
+      "address": "mndefzgvmt87ueuhvvu9vctqsap5b3ftgpshuupa5ey",
+      "name": "Marinade",
+      "symbol": "MNDE",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/mndefzgvmt87ueuhvvu9vctqsap5b3ftgpshuupa5ey.png"
+    },
+    {
+      "address": "mangoczj36ajzykwvj3vnyu4gtonjfvenjmvvwaxlac",
+      "name": "Mango",
+      "symbol": "MNGO",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/mangoczj36ajzykwvj3vnyu4gtonjfvenjmvvwaxlac.png"
+    },
+    {
+      "address": "ed5nyywezpppiwimp8vym7sd7td3lat3q3grtwhzpjby",
+      "name": "Moo Deng",
+      "symbol": "MOODENG",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/ed5nyywezpppiwimp8vym7sd7td3lat3q3grtwhzpjby.png"
+    },
+    {
+      "address": "metaewgxypbgwsseh8t16a39cq5vyvxzi9zxidpy18m",
+      "name": "Metaplex",
+      "symbol": "MPLX",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/metaewgxypbgwsseh8t16a39cq5vyvxzi9zxidpy18m.png"
+    },
+    {
+      "address": "msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so",
+      "name": "Marinade Staked SOL",
+      "symbol": "MSOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/msolzycxhdygdzu16g5qsh3i5k3z3kzk7ytfqcjm7so.png"
+    },
+    {
+      "address": "neontjsjsuo3rexg9o6vhumxw62f9v7zvmu8m8zut44",
+      "name": "Neon",
+      "symbol": "NEON",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/neontjsjsuo3rexg9o6vhumxw62f9v7zvmu8m8zut44.png"
+    },
+    {
+      "address": "c29ebrgyjyojpmgpnpsgy1q3mmgk4idsqnqeqqa7moon",
+      "name": "Nobody Sausage",
+      "symbol": "NOBODY",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/c29ebrgyjyojpmgpnpsgy1q3mmgk4idsqnqeqqa7moon.png"
+    },
+    {
+      "address": "nosxbvoacttydlvky6csb4ac8jcdqkkaawytx2zmoo7",
+      "name": "Nosana",
+      "symbol": "NOS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/nosxbvoacttydlvky6csb4ac8jcdqkkaawytx2zmoo7.png"
+    },
+    {
+      "address": "begy8kqkxboewrbjd1q9h2k829js4rc5deynmyxcbv5p",
+      "name": "Non-Playable Coin",
+      "symbol": "NPC",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/begy8kqkxboewrbjd1q9h2k829js4rc5deynmyxcbv5p.png"
+    },
+    {
+      "address": "orcaektdk7lkz57vaayr9qensvepfiu6qemu1kektze",
+      "name": "Orca",
+      "symbol": "ORCA",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/orcaektdk7lkz57vaayr9qensvepfiu6qemu1kektze.png"
+    },
+    {
+      "address": "abt79mkrxusohuv2cvqt32ymxqhtparkfjmidqxgiq6e",
+      "name": "Orderly",
+      "symbol": "ORDER",
+      "decimals": 10,
+      "logoURI": "http://localhost:3000/tokens/abt79mkrxusohuv2cvqt32ymxqhtparkfjmidqxgiq6e.png"
+    },
+    {
+      "address": "z3dn17ylagmkffvogefhq9zwvcxgqgf3pqndsns2g6m",
+      "name": "Oxygen (Solana)",
+      "symbol": "OXY",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/z3dn17ylagmkffvogefhq9zwvcxgqgf3pqndsns2g6m.png"
+    },
+    {
+      "address": "2zmmhcvqexdtde6vsfs7s7d5ouodfjhe8vd1gnbouauv",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/2zmmhcvqexdtde6vsfs7s7d5ouodfjhe8vd1gnbouauv.png"
+    },
+    {
+      "address": "7s9most7vv1j3jvnnw2ayocsqdbdckpyz5apqdpky9i5",
+      "name": "Pipe Network",
+      "symbol": "PIPE",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/7s9most7vv1j3jvnnw2ayocsqdbdckpyz5apqdpky9i5.png"
+    },
+    {
+      "address": "2qehjdldlbubgryvsxhc5d6udwaivnfzgan56p1tpump",
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/2qehjdldlbubgryvsxhc5d6udwaivnfzgan56p1tpump.png"
+    },
+    {
+      "address": "poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk",
+      "name": "Star Atlas DAO",
+      "symbol": "POLIS",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/poliswxnnrwc6obu1vhiukqzfjgl4xdsu4g9qjz9qvk.png"
+    },
+    {
+      "address": "5z3eqyqo9hices3r84rcdmu2n7anpdmxrhdk8pswmrrc",
+      "name": "PONKE",
+      "symbol": "PONKE",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/5z3eqyqo9hices3r84rcdmu2n7anpdmxrhdk8pswmrrc.png"
+    },
+    {
+      "address": "7gcihgdb8fe6knjn2mytkzzcrjqy3t9ghdc8uhymw2hr",
+      "name": "Popcat",
+      "symbol": "POPCAT",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/7gcihgdb8fe6knjn2mytkzzcrjqy3t9ghdc8uhymw2hr.png"
+    },
+    {
+      "address": "fmqjdvt1gztvxdvygmbede4l54fftfgx9m5gmbqejgm5",
+      "name": "Portal",
+      "symbol": "PORTAL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/fmqjdvt1gztvxdvygmbede4l54fftfgx9m5gmbqejgm5.png"
+    },
+    {
+      "address": "4llbsb5rep3yetyzmxewygjcir5uxtkfurtaeuvc2ahs",
+      "name": "Parcl",
+      "symbol": "PRCL",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/4llbsb5rep3yetyzmxewygjcir5uxtkfurtaeuvc2ahs.png"
+    },
+    {
+      "address": "pumpcmxqmfrsakq5r49wcjnrayyrqmxz6ae8h7h9dfn",
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/pumpcmxqmfrsakq5r49wcjnrayyrqmxz6ae8h7h9dfn.png"
+    },
+    {
+      "address": "2oglxyunbjrcept1mev6knetald7bf6qq3cm6skasbfe",
+      "name": "Pups (Bitcoin)",
+      "symbol": "PUPS",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/2oglxyunbjrcept1mev6knetald7bf6qq3cm6skasbfe.png"
+    },
+    {
+      "address": "hz1jovnivvgrgniiyveozevgz58xau3rkwx8eacqbct3",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/hz1jovnivvgrgniiyveozevgz58xau3rkwx8eacqbct3.png"
+    },
+    {
+      "address": "2b1kv6dkpanxd5ixfnxcpjxmkwqjjaymczfhsfu24gxo",
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/2b1kv6dkpanxd5ixfnxcpjxmkwqjjaymczfhsfu24gxo.png"
+    },
+    {
+      "address": "4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r",
+      "name": "Raydium",
+      "symbol": "RAY",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/4k3dyjzvzp8emzwuxbbcjevwskkk59s5icnly3qrkx6r.png"
+    },
+    {
+      "address": "vqoywru2pbudcvkurrh74ktqdjgvjrcdvsodbuzm5n9",
+      "name": "Rekt",
+      "symbol": "REKT",
+      "decimals": 4,
+      "logoURI": "http://localhost:3000/tokens/vqoywru2pbudcvkurrh74ktqdjgvjrcdvsodbuzm5n9.png"
+    },
+    {
+      "address": "rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof",
+      "name": "Render",
+      "symbol": "RENDER",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof.png"
+    },
+    {
+      "address": "6ogzhhzdrqr9pgv6hz2mnze7urzbmafybbwuyp1fhitx",
+      "name": "RETARDIO",
+      "symbol": "RETARDIO",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/6ogzhhzdrqr9pgv6hz2mnze7urzbmafybbwuyp1fhitx.png"
+    },
+    {
+      "address": "3dk98mxpz8truim7rfqnebslpa7vsoc79bgiee1m4zw5",
+      "name": "Renzo",
+      "symbol": "REZ",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/3dk98mxpz8truim7rfqnebslpa7vsoc79bgiee1m4zw5.png"
+    },
+    {
+      "address": "7xkxtg2cw87d97txjsdpbd5jbkhetqa83tzrujosgasu",
+      "name": "Samoyedcoin",
+      "symbol": "SAMO",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/7xkxtg2cw87d97txjsdpbd5jbkhetqa83tzrujosgasu.png"
+    },
+    {
+      "address": "sarosy6vscao718m4a778z4cgtvcwcgef5m9meh1lgl",
+      "name": "Saros",
+      "symbol": "SAROS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/sarosy6vscao718m4a778z4cgtvcwcgef5m9meh1lgl.png"
+    },
+    {
+      "address": "saber2glauyim4mvftnrasomsv6nvauncvmezwclpd1",
+      "name": "Saber",
+      "symbol": "SBR",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/saber2glauyim4mvftnrasomsv6nvauncvmezwclpd1.png"
+    },
+    {
+      "address": "4qnvjpg8dxoyyjifs83iexe3gwnm4jk4b6mbzrar4gs9",
+      "name": "Stader",
+      "symbol": "SD",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/4qnvjpg8dxoyyjifs83iexe3gwnm4jk4b6mbzrar4gs9.png"
+    },
+    {
+      "address": "shdwybxihqicj6yekg2gur7wqklelamk1ghzck9pl6y",
+      "name": "Shadow Token",
+      "symbol": "SHDW",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/shdwybxihqicj6yekg2gur7wqklelamk1ghzck9pl6y.png"
+    },
+    {
+      "address": "5svg3t9cnqsm2kewzbrq6hasqh1ogfjqttlxyuibpump",
+      "name": "Sigma",
+      "symbol": "SIGMA",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/5svg3t9cnqsm2kewzbrq6hasqh1ogfjqttlxyuibpump.png"
+    },
+    {
+      "address": "skrbvo6gf7gondit3bbtfurdpqlwei4j2qy2npgzhw3",
+      "name": "Seeker",
+      "symbol": "SKR",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/skrbvo6gf7gondit3bbtfurdpqlwei4j2qy2npgzhw3.png"
+    },
+    {
+      "address": "so11111111111111111111111111111111111111112",
+      "name": "Wrapped SOL",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/so11111111111111111111111111111111111111112.png"
+    },
+    {
+      "address": "sonicxvlud67eceaezclrnmtbqzyuuynr93dbkbddes",
+      "name": "Sonic SVM",
+      "symbol": "SONIC",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/sonicxvlud67eceaezclrnmtbqzyuuynr93dbkbddes.png"
+    },
+    {
+      "address": "4edf52yyzl6i6gbz6fxqrlupxbtp61f1gpsfm66m4xhe",
+      "name": "SOON",
+      "symbol": "SOON",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/4edf52yyzl6i6gbz6fxqrlupxbtp61f1gpsfm66m4xhe.png"
+    },
+    {
+      "address": "spqkecsdallln4mqcb3xh64hytmdd4fzzk9cf5liqv8",
+      "name": "SPICE",
+      "symbol": "SPICE",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/spqkecsdallln4mqcb3xh64hytmdd4fzzk9cf5liqv8.png"
+    },
+    {
+      "address": "j3nkxxxzcnnimjkw9hyb2k4luxgwb6t1ftptqvsv3kfr",
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/j3nkxxxzcnnimjkw9hyb2k4luxgwb6t1ftptqvsv3kfr.png"
+    },
+    {
+      "address": "srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt",
+      "name": "Serum",
+      "symbol": "SRM",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/srmuapvndxxokk5gt7xd5cuugxmbcoaz2lheuaokwrt.png"
+    },
+    {
+      "address": "stepascqoeiofxxwgnh2slbdfp9d8rvkz2yp39idpyt",
+      "name": "Step Finance",
+      "symbol": "STEP",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/stepascqoeiofxxwgnh2slbdfp9d8rvkz2yp39idpyt.png"
+    },
+    {
+      "address": "4dxuskzkzpespd2qfrba4vyk5wqfkteqia6txpkfnubm",
+      "name": "SUKU",
+      "symbol": "SUKU",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/4dxuskzkzpespd2qfrba4vyk5wqfkteqia6txpkfnubm.png"
+    },
+    {
+      "address": "chvzxwrmrtesgwd3ui3uumcn8kx7vk3wad4kgeskpypj",
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/chvzxwrmrtesgwd3ui3uumcn8kx7vk3wad4kgeskpypj.png"
+    },
+    {
+      "address": "74sbv4zdxxtrgv1pemoecskkbkzhc2ygpnc7gyvepump",
+      "name": "Swarms",
+      "symbol": "SWARMS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/74sbv4zdxxtrgv1pemoecskkbkzhc2ygpnc7gyvepump.png"
+    },
+    {
+      "address": "nsg17kisapmumwjlbz4blx8bipaaxtk9tdcdy1fb9ia",
+      "name": "SWEAT",
+      "symbol": "SWEAT",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/nsg17kisapmumwjlbz4blx8bipaaxtk9tdcdy1fb9ia.png"
+    },
+    {
+      "address": "4njvi3928u3figef5tf8xvjlc5gqun33oe4xtjne7xxc",
+      "name": "Threshold Network",
+      "symbol": "T",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/4njvi3928u3figef5tf8xvjlc5gqun33oe4xtjne7xxc.png"
+    },
+    {
+      "address": "6dnsn2bjsapfdffc1zp37kkene4usc1sqkzr9c9vpwcu",
+      "name": "tBTC",
+      "symbol": "TBTC",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/6dnsn2bjsapfdffc1zp37kkene4usc1sqkzr9c9vpwcu.png"
+    },
+    {
+      "address": "ftuew73k6veyhfbkfpdbzfwpxgqar2hipgdbutehpump",
+      "name": "titcoin",
+      "symbol": "TITCOIN",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/ftuew73k6veyhfbkfpdbzfwpxgqar2hipgdbutehpump.png"
+    },
+    {
+      "address": "tnsrxcuxot9xbg3de7pijytdyu7ksklqcpddxnejas6",
+      "name": "Tensor",
+      "symbol": "TNSR",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/tnsrxcuxot9xbg3de7pijytdyu7ksklqcpddxnejas6.png"
+    },
+    {
+      "address": "fu1q8vjpznurmqscisjp8bakkidgslmoub8cbdf8tkqv",
+      "name": "Doland Tremp",
+      "symbol": "TREMP",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/fu1q8vjpznurmqscisjp8bakkidgslmoub8cbdf8tkqv.png"
+    },
+    {
+      "address": "5uuh9rtdispq6hks6bp4ndu9pnjpxrxuiw6shbtbhgh2",
+      "name": "TROLL",
+      "symbol": "TROLL",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/5uuh9rtdispq6hks6bp4ndu9pnjpxrxuiw6shbtbhgh2.png"
+    },
+    {
+      "address": "6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn",
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/6p6xghyf7aee6tzksmfsko444wqop15icusqi2jfgipn.png"
+    },
+    {
+      "address": "2dyzu65qa9zdx1uee7gx71k7fiwyuk6szdrvj7auq5wm",
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/2dyzu65qa9zdx1uee7gx71k7fiwyuk6szdrvj7auq5wm.png"
+    },
+    {
+      "address": "el5fuxj2j4ciqsmw85k5fg9dvuqjjuobhoqbi2kpump",
+      "name": "Unicorn Fart Dust",
+      "symbol": "UFD",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/el5fuxj2j4ciqsmw85k5fg9dvuqjjuobhoqbi2kpump.png"
+    },
+    {
+      "address": "usd1ttgy1n17neehlmeloaybftrbuserhqyiqzvemub",
+      "name": "USD1",
+      "symbol": "USD1",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/usd1ttgy1n17neehlmeloaybftrbuserhqyiqzvemub.png"
+    },
+    {
+      "address": "epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/epjfwdd5aufqssqem2qn1xzybapc8g4weggkzwytdt1v.png"
+    },
+    {
+      "address": "dekqhypn7gmrj5cartqfawefqbzb33hyf6s5icwjeont",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/dekqhypn7gmrj5cartqfawefqbzb33hyf6s5icwjeont.png"
+    },
+    {
+      "address": "2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh.png"
+    },
+    {
+      "address": "hvbpjaqgnpkgbaybzqbr1t7yfdvayvp2vcqqfkken4tm",
+      "name": "Pax Dollar",
+      "symbol": "USDP",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/hvbpjaqgnpkgbaybzqbr1t7yfdvayvp2vcqqfkken4tm.png"
+    },
+    {
+      "address": "usdswr9apdhk5bvjkmjzff41ffux8bsxdkcr81vtwca",
+      "name": "USDS",
+      "symbol": "USDS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/usdswr9apdhk5bvjkmjzff41ffux8bsxdkcr81vtwca.png"
+    },
+    {
+      "address": "es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb.png"
+    },
+    {
+      "address": "cb9dduft3zuqxqqsfa1c5ky935tereybw9xjxxhkpump",
+      "name": "Unstable Coin",
+      "symbol": "USDUC",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/cb9dduft3zuqxqqsfa1c5ky935tereybw9xjxxhkpump.png"
+    },
+    {
+      "address": "dz9mq9nzkbccsugpfj3r1bs4wgqkmhbpivuniw8mbonk",
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/dz9mq9nzkbccsugpfj3r1bs4wgqkmhbpivuniw8mbonk.png"
+    },
+    {
+      "address": "vrsebfqty9qlmmo5qgiwo74avpdqqmtnxpqwowmpump",
+      "name": "Verse World",
+      "symbol": "VERSE",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/vrsebfqty9qlmmo5qgiwo74avpdqqmtnxpqwowmpump.png"
+    },
+    {
+      "address": "6ajcp7wulwmrylbnbi825wgguapswzpbehchndprpump",
+      "name": "Vine",
+      "symbol": "VINE",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/6ajcp7wulwmrylbnbi825wgguapswzpbehchndprpump.png"
+    },
+    {
+      "address": "3iql8bfs2ve7mww4ehaqqhasbmrncrpxizwat2zfyr9y",
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/3iql8bfs2ve7mww4ehaqqhasbmrncrpxizwat2zfyr9y.png"
+    },
+    {
+      "address": "85vbfqzc9tzkfaptbwjvuw7ybzjy52a6mjtpgjstqamq",
+      "name": "Wormhole",
+      "symbol": "W",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/85vbfqzc9tzkfaptbwjvuw7ybzjy52a6mjtpgjstqamq.png"
+    },
+    {
+      "address": "5xzw2lktyrfvfiskj78ampackrjpcycif1whuspduvqq",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/5xzw2lktyrfvfiskj78ampackrjpcycif1whuspduvqq.png"
+    },
+    {
+      "address": "3nz9jmvbmgaqocybic2c7lqcjscmgsaz6vqqtdzcqmjh",
+      "name": "Wrapped BTC (Wormhole)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/3nz9jmvbmgaqocybic2c7lqcjscmgsaz6vqqtdzcqmjh.png"
+    },
+    {
+      "address": "wctk5xwdn5syg56twgj32suf3w4wfq48ogezlbuytby",
+      "name": "WalletConnect Token",
+      "symbol": "WCT",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/wctk5xwdn5syg56twgj32suf3w4wfq48ogezlbuytby.png"
+    },
+    {
+      "address": "wenwenvqqnya429ubcdr81zmd69brwqaabyy6p3lcpk",
+      "name": "Wen",
+      "symbol": "WEN",
+      "decimals": 5,
+      "logoURI": "http://localhost:3000/tokens/wenwenvqqnya429ubcdr81zmd69brwqaabyy6p3lcpk.png"
+    },
+    {
+      "address": "wetzjtprkdmccuxpi9pfwnowmrzkigghdb9raburz2u",
+      "name": "Humidifi",
+      "symbol": "WET",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/wetzjtprkdmccuxpi9pfwnowmrzkigghdb9raburz2u.png"
+    },
+    {
+      "address": "7vfcxtuxx5wjv5jadk17duj4ksgau7utnkj4b963voxs",
+      "name": "Wrapped Ether (Wormhole)",
+      "symbol": "WETH",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/7vfcxtuxx5wjv5jadk17duj4ksgau7utnkj4b963voxs.png"
+    },
+    {
+      "address": "ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm",
+      "name": "dogwifhat",
+      "symbol": "WIF",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm.png"
+    },
+    {
+      "address": "wlfinev6ypjkczcs83fzqfpgfzywqxutrbxge7oc16g",
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/wlfinev6ypjkczcs83fzqfpgfzywqxutrbxge7oc16g.png"
+    },
+    {
+      "address": "wmtxyykumtg3vuza5bexuhvrlpytwwaop7h2i8ypurh",
+      "name": "World Mobile Token",
+      "symbol": "WMTX",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/wmtxyykumtg3vuza5bexuhvrlpytwwaop7h2i8ypurh.png"
+    },
+    {
+      "address": "dz8vuterqbhr2afl5a3s1ky4dg1unjt1jufxxpay9ytx",
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/dz8vuterqbhr2afl5a3s1ky4dg1unjt1jufxxpay9ytx.png"
+    },
+    {
+      "address": "8x5vqbha8d7nkd52unus5nnt3pwa8pld34ymskeso2wn",
+      "name": "Zerebro",
+      "symbol": "ZEREBRO",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/8x5vqbha8d7nkd52unus5nnt3pwa8pld34ymskeso2wn.png"
+    },
+    {
+      "address": "zeus1ar7ax8dffjf5qjwj2ftdddntromngo8yoqm3gq",
+      "name": "Zeus Network",
+      "symbol": "ZEUS",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/zeus1ar7ax8dffjf5qjwj2ftdddntromngo8yoqm3gq.png"
+    },
+    {
+      "address": "zexy1pqteru3n13kdyh4lwpqknkfk3gzmmymunadwpo",
+      "name": "Zeta",
+      "symbol": "ZEX",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/zexy1pqteru3n13kdyh4lwpqknkfk3gzmmymunadwpo.png"
+    },
+    {
+      "address": "26f12pmbk77wqv1tzle8xkknbvmfggbuypxdtmlznlzz",
+      "name": "ZIGChain",
+      "symbol": "ZIG",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/26f12pmbk77wqv1tzle8xkknbvmfggbuypxdtmlznlzz.png"
+    }
+  ]
+}

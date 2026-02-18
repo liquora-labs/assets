@@ -1,0 +1,43 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 143,
+  "timestamp": "2026-02-18T23:25:14.214Z",
+  "tokenCount": 5,
+  "tokens": [
+    {
+      "address": "0xea17e5a9efebf1477db45082d67010e2245217f1",
+      "name": "SOL Wormhole ",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/0xea17e5a9efebf1477db45082d67010e2245217f1.png"
+    },
+    {
+      "address": "0x754704bc059f8c67012fed69bc8a327a5aafb603",
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0x754704bc059f8c67012fed69bc8a327a5aafb603.png"
+    },
+    {
+      "address": "0xe7cd86e13ac4309349f30b3435a9d337750fc82d",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0xe7cd86e13ac4309349f30b3435a9d337750fc82d.png"
+    },
+    {
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png"
+    },
+    {
+      "address": "0xee8c0e9f1bffb4eb878d8f15f368a02a35481242",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xee8c0e9f1bffb4eb878d8f15f368a02a35481242.png"
+    }
+  ]
+}

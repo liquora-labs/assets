@@ -1,0 +1,29 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 480,
+  "timestamp": "2026-02-18T23:25:14.220Z",
+  "tokenCount": 3,
+  "tokens": [
+    {
+      "address": "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0x79a02482a880bce3f13e09da970dc34db4cd24d1.png"
+    },
+    {
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x4200000000000000000000000000000000000006.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 80001,
+  "timestamp": "2026-02-18T23:25:14.263Z",
+  "tokenCount": 2,
+  "tokens": [
+    {
+      "address": "0xa6fa4fb5f76172d178d61b04b0ecd319c5d1c0aa",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xa6fa4fb5f76172d178d61b04b0ecd319c5d1c0aa.png"
+    },
+    {
+      "address": "0x9c3c9283d3e44854697cd22d3faa240cfb032889",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x9c3c9283d3e44854697cd22d3faa240cfb032889.png"
+    }
+  ]
+}

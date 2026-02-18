@@ -91,6 +91,45 @@ const fetchAndSaveTokens = async () => {
       return acc;
     }, {});
     console.log({ tokensByChainId });
+    for (const chainId of Object.keys(tokensByChainId)) {
+      const ROOT_DIR = path.resolve(__dirname, "..");
+      const OUTPUT_DIR = path.join(ROOT_DIR, "blockchains", "tokenlist");
+      const chainDir = path.join(OUTPUT_DIR, chainId);
+
+      // create folder if not exists
+      fs.mkdirSync(chainDir, { recursive: true });
+
+      const filePath = path.join(chainDir, "tokenlist.json");
+      const existingFiles = new Set(fs.readdirSync(TOKENS_DIR));
+      fs.writeFileSync(
+        filePath,
+        JSON.stringify(
+          {
+            name: process.env.TOKEN_LIST_NAME,
+            chainId: Number(chainId),
+            timestamp: new Date().toISOString(),
+            tokenCount: tokensByChainId[chainId].length,
+            tokens: tokensByChainId[chainId].map((token) => {
+              const address = token.address.toLowerCase();
+              const found = [...existingFiles].find((file) =>
+                file.startsWith(address + "."),
+              );
+              return {
+                address,
+                name: token.name,
+                symbol: token.symbol,
+                decimals: token.decimals,
+                logoURI: `${process.env.PUBLIC_BASE_URL}/tokens/${found || "generic.png"}`,
+              };
+            }),
+          },
+          null,
+          2,
+        ),
+      );
+
+      console.log(`✅ Generated: ${filePath}`);
+    }
   } catch (err) {
     console.error("❌ Error fetching token list:", err?.message);
   }

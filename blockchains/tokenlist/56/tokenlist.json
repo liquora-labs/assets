@@ -1,0 +1,540 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 56,
+  "timestamp": "2026-02-18T23:25:14.143Z",
+  "tokenCount": 76,
+  "tokens": [
+    {
+      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+      "name": "1inch",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x111111111117dc0aa78b770fa6a738034120c302.png"
+    },
+    {
+      "address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xfb6115445bff7b52feb98650c87f44907e58f802.png"
+    },
+    {
+      "address": "0xbc7d6b50616989655afd682fb42743507003056d",
+      "name": "Alchemy Pay",
+      "symbol": "ACH",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/0xbc7d6b50616989655afd682fb42743507003056d.png"
+    },
+    {
+      "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
+      "name": "Ambire AdEx",
+      "symbol": "ADX",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819.png"
+    },
+    {
+      "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+      "name": "agEur",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x12f31b73d812c6bb0d735a218c086d44d5fe5f89.png"
+    },
+    {
+      "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+      "name": "AIOZ Network",
+      "symbol": "AIOZ",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x33d08d8c7a168333a85285a68c0042b39fc3741d.png"
+    },
+    {
+      "address": "0x82d2f8e02afb160dd5a480a617692e62de9038c4",
+      "name": "Aleph im",
+      "symbol": "ALEPH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x82d2f8e02afb160dd5a480a617692e62de9038c4.png"
+    },
+    {
+      "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "name": "My Neighbor Alice",
+      "symbol": "ALICE",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0xac51066d7bec65dc4589368da368b212745d63e8.png"
+    },
+    {
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "name": "Alpha Venture DAO",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xa1faa113cbe53436df28ff0aee54275c13b40975.png"
+    },
+    {
+      "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xf307910a4c7bbc79691fd374889b36d8531b08e3.png"
+    },
+    {
+      "address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+      "name": "ARPA Chain",
+      "symbol": "ARPA",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e.png"
+    },
+    {
+      "address": "0x000ae314e2a2172a039b26378814c252734f556a",
+      "name": "Aster",
+      "symbol": "ASTER",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x000ae314e2a2172a039b26378814c252734f556a.png"
+    },
+    {
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "name": "Automata",
+      "symbol": "ATA",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xa2120b9e674d3fc3875f415a7df52e382f141225.png"
+    },
+    {
+      "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+      "name": "Axelar",
+      "symbol": "AXL",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65.png"
+    },
+    {
+      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x715d400f88c167884bbcc41c5fea407ed4d2f8a0.png"
+    },
+    {
+      "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
+      "name": "Bluzelle",
+      "symbol": "BLZ",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x935a544bf5816e3a7c13db2efe3009ffda0acda2.png"
+    },
+    {
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+      "name": "Coin98",
+      "symbol": "C98",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xaec945e04baf28b135fa7c640f624f8d90f1c3a6.png"
+    },
+    {
+      "address": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+      "name": "Chromia",
+      "symbol": "CHR",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe.png"
+    },
+    {
+      "address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
+      "name": "Clover Finance",
+      "symbol": "CLV",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x09e889bb4d5b474f561db0491c38702f367a4e4d.png"
+    },
+    {
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
+    },
+    {
+      "address": "0xd15cee1deafbad6c0b3fd7489677cc102b141464",
+      "name": "Circuits of Value",
+      "symbol": "COVAL",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/0xd15cee1deafbad6c0b3fd7489677cc102b141464.png"
+    },
+    {
+      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+      "name": "Cartesi",
+      "symbol": "CTSI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x8da443f84fea710266c8eb6bc34b71702d033ef2.png"
+    },
+    {
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+    },
+    {
+      "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+      "name": "Mines of Dalarnia",
+      "symbol": "DAR",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978.png"
+    },
+    {
+      "address": "0xe91a8d2c584ca93c7405f15c22cdfe53c29896e3",
+      "name": "DexTools",
+      "symbol": "DEXT",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xe91a8d2c584ca93c7405f15c22cdfe53c29896e3.png"
+    },
+    {
+      "address": "0x99956d38059cf7beda96ec91aa7bb2477e0901dd",
+      "name": "DIA",
+      "symbol": "DIA",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x99956d38059cf7beda96ec91aa7bb2477e0901dd.png"
+    },
+    {
+      "address": "0xec583f25a049cc145da9a256cdbe9b6201a705ff",
+      "name": "Drep",
+      "symbol": "DREP",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xec583f25a049cc145da9a256cdbe9b6201a705ff.png"
+    },
+    {
+      "address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+      "name": "DeFi Yield Protocol",
+      "symbol": "DYP",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17.png"
+    },
+    {
+      "address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
+      "name": "Dogelon Mars",
+      "symbol": "ELON",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x7bd6fabd64813c48545c9c0e312a0099d9be2540.png"
+    },
+    {
+      "address": "0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743",
+      "name": "Harvest Finance",
+      "symbol": "FARM",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x4b5c23cac08a567ecf0c1ffca8372a45a5d33743.png"
+    },
+    {
+      "address": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+      "name": "Fetch ai",
+      "symbol": "FET",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x031b41e504677879370e9dbcf937283a8691fa7f.png"
+    },
+    {
+      "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/0xfb5b838b6cfeedc2873ab27866079ac55363d37e.png"
+    },
+    {
+      "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x90c97f71e18723b0cf0dfa30ee176ab653e89f40.png"
+    },
+    {
+      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+      "name": "Fantom",
+      "symbol": "FTM",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xad29abb318791d579433d831ed122afeaf29dcfe.png"
+    },
+    {
+      "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee.png"
+    },
+    {
+      "address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+      "name": "Galxe",
+      "symbol": "GAL",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xe4cc45bb5dbda06db6183e8bf016569f40497aa5.png"
+    },
+    {
+      "address": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
+      "name": "Hashflow",
+      "symbol": "HFT",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x44ec807ce2f4a6f2737a92e985f318d035883e47.png"
+    },
+    {
+      "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+      "name": "Highstreet",
+      "symbol": "HIGH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63.png"
+    },
+    {
+      "address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+      "name": "Injective",
+      "symbol": "INJ",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xa2b726b1145a4773f68593cf171187d8ebe4d495.png"
+    },
+    {
+      "address": "0x0231f91e02debd20345ae8ab7d71a41f8e140ce7",
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7.png"
+    },
+    {
+      "address": "0x073690e6ce25be816e68f32dca3e11067c9fb5cc",
+      "name": "Kujira",
+      "symbol": "KUJI",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0x073690e6ce25be816e68f32dca3e11067c9fb5cc.png"
+    },
+    {
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd.png"
+    },
+    {
+      "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3.png"
+    },
+    {
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "name": "MATH",
+      "symbol": "MATH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xf218184af829cf2b0019f8e6f0b2423498a36983.png"
+    },
+    {
+      "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png"
+    },
+    {
+      "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+      "name": "Merit Circle",
+      "symbol": "MC",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x949d48eca67b17269629c7194f4b727d4ef9e5d6.png"
+    },
+    {
+      "address": "0xe552fb52a4f19e44ef5a967632dbc320b0820639",
+      "name": "Metis",
+      "symbol": "METIS",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xe552fb52a4f19e44ef5a967632dbc320b0820639.png"
+    },
+    {
+      "address": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba.png"
+    },
+    {
+      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+      "name": "Mirror Protocol",
+      "symbol": "MIR",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9.png"
+    },
+    {
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "name": "Multichain",
+      "symbol": "MULTI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3.png"
+    },
+    {
+      "address": "0x4e7f408be2d4e9d60f49a64b89bb619c84c7c6f5",
+      "name": "Perpetual Protocol",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x4e7f408be2d4e9d60f49a64b89bb619c84c7c6f5.png"
+    },
+    {
+      "address": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
+      "name": "Polkastarter",
+      "symbol": "POLS",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x7e624fa0e1c4abfd309cc15719b7e2580887f570.png"
+    },
+    {
+      "address": "0xd21d29b38374528675c34936bf7d5dd693d2a577",
+      "name": "PARSIQ",
+      "symbol": "PRQ",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xd21d29b38374528675c34936bf7d5dd693d2a577.png"
+    },
+    {
+      "address": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c",
+      "name": "pSTAKE Finance",
+      "symbol": "PSTAKE",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x4c882ec256823ee773b25b414d36f92ef58a7c0c.png"
+    },
+    {
+      "address": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+      "name": "REVV",
+      "symbol": "REVV",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x833f307ac507d47309fd8cdd1f835bef8d702a93.png"
+    },
+    {
+      "address": "0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
+      "name": "Stader",
+      "symbol": "SD",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8.png"
+    },
+    {
+      "address": "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
+      "name": "SOL Wormhole ",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoURI": "http://localhost:3000/tokens/0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e.png"
+    },
+    {
+      "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xb0d502e938ed5f4df2e681fe6e419ff29631d62b.png"
+    },
+    {
+      "address": "0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d",
+      "name": "SuperFarm",
+      "symbol": "SUPER",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d.png"
+    },
+    {
+      "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
+    },
+    {
+      "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+      "name": "SWFTCOIN",
+      "symbol": "SWFTC",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xe64e30276c2f826febd3784958d6da7b55dfbad3.png"
+    },
+    {
+      "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
+      "name": "Swipe",
+      "symbol": "SXP",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x47bead2563dcbf3bf2c9407fea4dc236faba485a.png"
+    },
+    {
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "name": "Synapse",
+      "symbol": "SYN",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xa4080f1778e69467e905b8d6f72f6e441f9e9484.png"
+    },
+    {
+      "address": "0x3b198e26e473b8fab2085b37978e36c9de5d7f68",
+      "name": "ChronoTech",
+      "symbol": "TIME",
+      "decimals": 8,
+      "logoURI": "http://localhost:3000/tokens/0x3b198e26e473b8fab2085b37978e36c9de5d7f68.png"
+    },
+    {
+      "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
+      "name": "Alien Worlds",
+      "symbol": "TLM",
+      "decimals": 4,
+      "logoURI": "http://localhost:3000/tokens/0x2222227e22102fe3322098e4cbfe18cfebd57c95.png"
+    },
+    {
+      "address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
+      "name": "Unifi Protocol DAO",
+      "symbol": "UNFI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x728c5bac3c3e370e372fc4671f9ef6916b814d8b.png"
+    },
+    {
+      "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xbf5140a22578168fd562dccf235e5d43a02ce9b1.png"
+    },
+    {
+      "address": "0x0d35a2b85c5a63188d566d104bebf7c694334ee4",
+      "name": "Pawtocol",
+      "symbol": "UPI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x0d35a2b85c5a63188d566d104bebf7c694334ee4.png"
+    },
+    {
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+    },
+    {
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+      "name": "WOO Network",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x4691937a7508860f876c9c0a2a617e7d9e945d4b.png"
+    },
+    {
+      "address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
+      "name": "Chain",
+      "symbol": "XCN",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b.png"
+    },
+    {
+      "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x6985884c4392d348587b19cb9eaaf157f13271cd.png"
+    }
+  ]
+}

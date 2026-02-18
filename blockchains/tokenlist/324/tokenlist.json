@@ -1,0 +1,15 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 324,
+  "timestamp": "2026-02-18T23:25:14.218Z",
+  "tokenCount": 1,
+  "tokens": [
+    {
+      "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e",
+      "name": "ZKsync",
+      "symbol": "ZK",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e.png"
+    }
+  ]
+}

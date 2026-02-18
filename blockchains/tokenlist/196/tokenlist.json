@@ -1,0 +1,15 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 196,
+  "timestamp": "2026-02-18T23:25:14.216Z",
+  "tokenCount": 1,
+  "tokens": [
+    {
+      "address": "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8",
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "decimals": 6,
+      "logoURI": "http://localhost:3000/tokens/0x4ae46a509f6b1d9056937ba4500cb143933d2dc8.png"
+    }
+  ]
+}

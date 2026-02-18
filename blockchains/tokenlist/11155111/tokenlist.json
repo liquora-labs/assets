@@ -1,0 +1,22 @@
+{
+  "name": "Liquora Labs Tokenlist",
+  "chainId": 11155111,
+  "timestamp": "2026-02-18T23:25:14.270Z",
+  "tokenCount": 2,
+  "tokens": [
+    {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
+    },
+    {
+      "address": "0xfff9976782d46cc05630d1f6ebab18b2324d6b14",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "http://localhost:3000/tokens/0xfff9976782d46cc05630d1f6ebab18b2324d6b14.png"
+    }
+  ]
+}
