@@ -16,7 +16,7 @@ const normalizeLogoUrl = (url) => {
   if (!url) return null;
   if (url.startsWith("ipfs://")) {
     const hash = url.replace("ipfs://", "");
-    return `https://ipfs.io/ipfs/${hash}`;
+    return `${process.env.IPF_GATEWAY}/${hash}`;
   }
   return url;
 };
@@ -72,6 +72,7 @@ const fetchAndSaveTokens = async () => {
         continue;
       }
       const logoURI = normalizeLogoUrl(token.logoURI);
+
       if (!logoURI) continue;
       try {
         const savedPath = await download(logoURI, filePath);
