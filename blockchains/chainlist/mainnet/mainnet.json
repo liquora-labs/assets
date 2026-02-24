@@ -1,191 +1,228 @@
 {
-  "name": "Liquora Labs Chainlist - mainnet,",
-  "timestamp": "2026-02-18T20:01:38.586Z",
+  "name": "Liquora Labs Chainlist - mainnet",
+  "timestamp": "2026-02-24T23:04:42.241Z",
   "totalChains": 37,
   "chains": [
     {
       "id": "1",
       "name": "Ethereum Mainnet",
+      "logoURI": "http://localhost:3000/chains/1.png",
       "blockExplorer": "https://etherscan.io/"
     },
     {
       "id": "56",
       "name": "BNB Smart Chain Mainnet",
+      "logoURI": "http://localhost:3000/chains/56.png",
       "blockExplorer": "https://bscscan.com/"
     },
     {
       "id": "137",
       "name": "Polygon Mainnet",
+      "logoURI": "http://localhost:3000/chains/137.png",
       "blockExplorer": "https://polygonscan.com/"
     },
     {
       "id": "8453",
       "name": "Base Mainnet",
+      "logoURI": "http://localhost:3000/chains/8453.png",
       "blockExplorer": "https://basescan.org/"
     },
     {
       "id": "42161",
       "name": "Arbitrum One Mainnet",
+      "logoURI": "http://localhost:3000/chains/42161.png",
       "blockExplorer": "https://arbiscan.io/"
     },
     {
       "id": "59144",
       "name": "Linea Mainnet",
+      "logoURI": "http://localhost:3000/chains/59144.png",
       "blockExplorer": "https://lineascan.build/"
     },
     {
       "id": "81457",
       "name": "Blast Mainnet",
+      "logoURI": "http://localhost:3000/chains/81457.png",
       "blockExplorer": "https://blastscan.io/"
     },
     {
       "id": "10",
       "name": "OP Mainnet",
+      "logoURI": "http://localhost:3000/chains/10.png",
       "blockExplorer": "https://optimistic.etherscan.io/"
     },
     {
       "id": "43114",
       "name": "Avalanche C-Chain",
+      "logoURI": "http://localhost:3000/chains/43114.png",
       "blockExplorer": "https://snowscan.xyz/"
     },
     {
       "id": "199",
       "name": "BitTorrent Chain Mainnet",
+      "logoURI": "http://localhost:3000/chains/199.png",
       "blockExplorer": "https://bttcscan.com/"
     },
     {
       "id": "42220",
       "name": "Celo Mainnet",
+      "logoURI": "http://localhost:3000/chains/42220.png",
       "blockExplorer": "https://celoscan.io/"
     },
     {
       "id": "252",
       "name": "Fraxtal Mainnet",
+      "logoURI": "http://localhost:3000/chains/252.png",
       "blockExplorer": "https://fraxscan.com/"
     },
     {
       "id": "100",
       "name": "Gnosis",
+      "logoURI": "http://localhost:3000/chains/100.png",
       "blockExplorer": "https://gnosisscan.io/"
     },
     {
       "id": "5000",
       "name": "Mantle Mainnet",
+      "logoURI": "http://localhost:3000/chains/5000.png",
       "blockExplorer": "https://mantlescan.xyz/"
     },
     {
       "id": "4352",
       "name": "Memecore Mainnet",
+      "logoURI": "http://localhost:3000/chains/4352.png",
       "blockExplorer": "https://memecorescan.io/"
     },
     {
       "id": "1284",
       "name": "Moonbeam Mainnet",
+      "logoURI": "http://localhost:3000/chains/1284.png",
       "blockExplorer": "https://moonbeam.moonscan.io/"
     },
     {
       "id": "1285",
       "name": "Moonriver Mainnet",
+      "logoURI": "http://localhost:3000/chains/1285.png",
       "blockExplorer": "https://moonriver.moonscan.io/"
     },
     {
       "id": "204",
       "name": "opBNB Mainnet",
+      "logoURI": "http://localhost:3000/chains/204.png",
       "blockExplorer": "https://opbnb.bscscan.com/"
     },
     {
       "id": "534352",
       "name": "Scroll Mainnet",
+      "logoURI": "http://localhost:3000/chains/534352.png",
       "blockExplorer": "https://scrollscan.com/"
     },
     {
       "id": "167000",
       "name": "Taiko Mainnet",
+      "logoURI": "http://localhost:3000/chains/167000.png",
       "blockExplorer": "https://taikoscan.io/"
     },
     {
       "id": "167013",
       "name": "Taiko Hoodi",
+      "logoURI": "http://localhost:3000/chains/167013.png",
       "blockExplorer": "https://hoodi.taikoscan.io/"
     },
     {
       "id": "50",
       "name": "XDC Mainnet",
+      "logoURI": "http://localhost:3000/chains/50.png",
       "blockExplorer": "https://xdcscan.com/"
     },
     {
       "id": "33139",
       "name": "ApeChain Mainnet",
+      "logoURI": "http://localhost:3000/chains/33139.png",
       "blockExplorer": "https://apescan.io/"
     },
     {
       "id": "480",
       "name": "World Mainnet",
+      "logoURI": "http://localhost:3000/chains/480.png",
       "blockExplorer": "https://worldscan.org/"
     },
     {
       "id": "146",
       "name": "Sonic Mainnet",
+      "logoURI": "http://localhost:3000/chains/146.png",
       "blockExplorer": "https://sonicscan.org/"
     },
     {
       "id": "130",
       "name": "Unichain Mainnet",
+      "logoURI": "http://localhost:3000/chains/130.png",
       "blockExplorer": "https://uniscan.xyz/"
     },
     {
       "id": "2741",
       "name": "Abstract Mainnet",
+      "logoURI": "http://localhost:3000/chains/2741.png",
       "blockExplorer": "https://abscan.org/"
     },
     {
       "id": "80094",
       "name": "Berachain Mainnet",
+      "logoURI": "http://localhost:3000/chains/80094.png",
       "blockExplorer": "https://berascan.com/"
     },
     {
       "id": "1923",
       "name": "Swellchain Mainnet",
+      "logoURI": "http://localhost:3000/chains/1923.png",
       "blockExplorer": "https://swellchainscan.io/"
     },
     {
       "id": "143",
       "name": "Monad Mainnet",
+      "logoURI": "http://localhost:3000/chains/143.png",
       "blockExplorer": "https://monadscan.com/"
     },
     {
       "id": "999",
       "name": "HyperEVM Mainnet",
+      "logoURI": "http://localhost:3000/chains/999.png",
       "blockExplorer": "https://hyperevmscan.io/"
     },
     {
       "id": "747474",
       "name": "Katana Mainnet",
+      "logoURI": "http://localhost:3000/chains/747474.png",
       "blockExplorer": "https://katanascan.com/"
     },
     {
       "id": "737373",
       "name": "Katana Bokuto",
+      "logoURI": "http://localhost:3000/chains/737373.png",
       "blockExplorer": "https://bokuto.katanascan.com/"
     },
     {
       "id": "1329",
       "name": "Sei Mainnet",
+      "logoURI": "http://localhost:3000/chains/1329.png",
       "blockExplorer": "https://seiscan.io/"
     },
     {
       "id": "988",
       "name": "Stable Mainnet",
+      "logoURI": "http://localhost:3000/chains/988.png",
       "blockExplorer": "https://stablescan.xyz/"
     },
     {
       "id": "9745",
       "name": "Plasma Mainnet",
+      "logoURI": "http://localhost:3000/chains/9745.png",
       "blockExplorer": "https://plasmascan.to/"
     },
     {
       "id": "4326",
       "name": "MegaETH Mainnet",
+      "logoURI": "http://localhost:3000/chains/4326.png",
       "blockExplorer": "https://mega.etherscan.io/"
     }
   ]

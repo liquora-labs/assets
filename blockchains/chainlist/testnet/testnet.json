@@ -1,161 +1,192 @@
 {
   "name": "Liquora Labs Chainlist - testnet",
-  "timestamp": "2026-02-18T20:01:38.587Z",
+  "timestamp": "2026-02-24T22:56:37.886Z",
   "totalChains": 31,
   "chains": [
     {
       "id": "11155111",
       "name": "Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/11155111.png",
       "blockExplorer": "https://sepolia.etherscan.io/"
     },
     {
       "id": "560048",
       "name": "Hoodi Testnet",
+      "logoURI": "http://localhost:3000/chains/560048.png",
       "blockExplorer": "https://hoodi.etherscan.io/"
     },
     {
       "id": "97",
       "name": "BNB Smart Chain Testnet",
+      "logoURI": "http://localhost:3000/chains/97.png",
       "blockExplorer": "https://testnet.bscscan.com/"
     },
     {
       "id": "80002",
       "name": "Polygon Amoy Testnet",
+      "logoURI": "http://localhost:3000/chains/80002.png",
       "blockExplorer": "https://amoy.polygonscan.com/"
     },
     {
       "id": "84532",
       "name": "Base Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/84532.png",
       "blockExplorer": "https://sepolia.basescan.org/"
     },
     {
       "id": "421614",
       "name": "Arbitrum Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/421614.png",
       "blockExplorer": "https://sepolia.arbiscan.io/"
     },
     {
       "id": "59141",
       "name": "Linea Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/59141.png",
       "blockExplorer": "https://sepolia.lineascan.build/"
     },
     {
       "id": "168587773",
       "name": "Blast Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/168587773.png",
       "blockExplorer": "https://sepolia.blastscan.io/"
     },
     {
       "id": "11155420",
       "name": "OP Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/11155420.png",
       "blockExplorer": "https://sepolia-optimism.etherscan.io/"
     },
     {
       "id": "43113",
       "name": "Avalanche Fuji Testnet",
+      "logoURI": "http://localhost:3000/chains/43113.png",
       "blockExplorer": "https://testnet.snowscan.xyz/"
     },
     {
       "id": "1029",
       "name": "BitTorrent Chain Testnet",
+      "logoURI": "http://localhost:3000/chains/1029.png",
       "blockExplorer": "https://testnet.bttcscan.com/"
     },
     {
       "id": "11142220",
       "name": "Celo Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/11142220.png",
       "blockExplorer": "https://sepolia.celoscan.io/"
     },
     {
       "id": "2523",
       "name": "Fraxtal Hoodi Testnet",
+      "logoURI": "http://localhost:3000/chains/2523.png",
       "blockExplorer": "https://hoodi.fraxscan.com/"
     },
     {
       "id": "5003",
       "name": "Mantle Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/5003.png",
       "blockExplorer": "https://sepolia.mantlescan.xyz/"
     },
     {
       "id": "43521",
       "name": "Memecore Testnet",
+      "logoURI": "http://localhost:3000/chains/43521.png",
       "blockExplorer": "https://testnet.memecorescan.io/"
     },
     {
       "id": "1287",
       "name": "Moonbase Alpha Testnet",
+      "logoURI": "http://localhost:3000/chains/1287.png",
       "blockExplorer": "https://moonbase.moonscan.io/"
     },
     {
       "id": "5611",
       "name": "opBNB Testnet",
+      "logoURI": "http://localhost:3000/chains/5611.png",
       "blockExplorer": "https://opbnb-testnet.bscscan.com/"
     },
     {
       "id": "534351",
       "name": "Scroll Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/534351.png",
       "blockExplorer": "https://sepolia.scrollscan.com/"
     },
     {
       "id": "51",
       "name": "XDC Apothem Testnet",
+      "logoURI": "http://localhost:3000/chains/51.png",
       "blockExplorer": "https://testnet.xdcscan.com/"
     },
     {
       "id": "33111",
       "name": "ApeChain Curtis Testnet",
+      "logoURI": "http://localhost:3000/chains/33111.png",
       "blockExplorer": "https://curtis.apescan.io/"
     },
     {
       "id": "4801",
       "name": "World Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/4801.png",
       "blockExplorer": "https://sepolia.worldscan.org/"
     },
     {
       "id": "14601",
       "name": "Sonic Testnet",
+      "logoURI": "http://localhost:3000/chains/14601.png",
       "blockExplorer": "https://testnet.sonicscan.org/"
     },
     {
       "id": "1301",
       "name": "Unichain Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/1301.png",
       "blockExplorer": "https://sepolia.uniscan.xyz/"
     },
     {
       "id": "11124",
       "name": "Abstract Sepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/11124.png",
       "blockExplorer": "https://sepolia.abscan.org/"
     },
     {
       "id": "80069",
       "name": "Berachain Bepolia Testnet",
+      "logoURI": "http://localhost:3000/chains/80069.png",
       "blockExplorer": "https://testnet.berascan.com/"
     },
     {
       "id": "1924",
       "name": "Swellchain Testnet",
+      "logoURI": "http://localhost:3000/chains/1924.png",
       "blockExplorer": "https://sepolia.swellchainscan.io/"
     },
     {
       "id": "10143",
       "name": "Monad Testnet",
+      "logoURI": "http://localhost:3000/chains/10143.png",
       "blockExplorer": "https://testnet.monadscan.com/"
     },
     {
       "id": "1328",
       "name": "Sei Testnet",
+      "logoURI": "http://localhost:3000/chains/1328.png",
       "blockExplorer": "https://testnet.seiscan.io/"
     },
     {
       "id": "2201",
       "name": "Stable Testnet",
+      "logoURI": "http://localhost:3000/chains/2201.png",
       "blockExplorer": "https://testnet.stablescan.xyz/"
     },
     {
       "id": "9746",
       "name": "Plasma Testnet",
+      "logoURI": "http://localhost:3000/chains/9746.png",
       "blockExplorer": "https://testnet.plasmascan.to/"
     },
     {
       "id": "6343",
       "name": "MegaETH Testnet",
+      "logoURI": "http://localhost:3000/chains/6343.png",
       "blockExplorer": "https://testnet-mega.etherscan.io/"
     }
   ]

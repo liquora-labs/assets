@@ -1,139 +1,121 @@
 const axios = require("axios");
-
-const fs = require("fs");
-
+const fs = require("fs/promises");
 const path = require("path");
-
 require("dotenv").config();
 
-const fetchAndSaveChainList = async () => {
+const ROOT_DIR = path.resolve(__dirname, "..");
+
+async function fetchChains() {
+  const { data } = await axios.get(process.env.CHAIN_LIST_API_URL, {
+    timeout: 15_000,
+  });
+
+  if (!data?.result || !Array.isArray(data.result)) {
+    throw new Error("Invalid chain list API response");
+  }
+
+  return data.result;
+}
+
+function transformChains(chains) {
+  return chains.map((chain) => ({
+    id: chain.chainid,
+    name: chain.chainname,
+    logoURI: `${process.env.PUBLIC_BASE_URL}/chains/${chain.chainid}.png`,
+    blockExplorer: chain.blockexplorer,
+  }));
+}
+
+function splitChains(chains) {
+  const isMainnet = (name) => {
+    const n = name.toLowerCase();
+    return n.includes("mainnet") || !n.includes("testnet");
+  };
+
+  return {
+    mainnets: chains.filter((c) => isMainnet(c.name)),
+    testnets: chains.filter((c) => !isMainnet(c.name)),
+  };
+}
+
+async function hasChainListChanged(filePath, newChains) {
   try {
-    const { data } = await axios.get(process.env.CHAIN_LIST_API_URL);
+    const raw = await fs.readFile(filePath, "utf-8");
+    const existing = JSON.parse(raw);
 
-    // Transform API data
+    const existingIds = (existing.chains || [])
+      .map((c) => c.id)
+      .sort((a, b) => a - b);
 
-    const transformedChains = data.result.map((chain) => ({
-      id: chain.chainid,
+    const newIds = newChains.map((c) => c.id).sort((a, b) => a - b);
 
-      name: chain.chainname,
+    if (existingIds.length !== newIds.length) return true;
 
-      blockExplorer: chain.blockexplorer,
-    }));
+    return !existingIds.every((id, i) => id === newIds[i]);
+  } catch {
+    return true;
+  }
+}
 
-    const testnetKeywords = ["testnet", "rinkeby", "ropsten"];
+async function saveChainList({ filePath, chains, type }) {
+  const changed = await hasChainListChanged(filePath, chains);
 
-    // Separate mainnets and testnets (inline)
+  if (!changed) {
+    console.log(`✅ ${type} list unchanged, no file written.`);
+    return false;
+  }
 
-    const mainnets = transformedChains.filter(
-      (chain) =>
-        !testnetKeywords.some((keyword) =>
-          chain.name.toLowerCase().includes(keyword),
-        ),
-    );
+  const payload = {
+    name: `${process.env.CHAIN_LIST_NAME} - ${type}`,
+    timestamp: new Date().toISOString(),
+    totalChains: chains.length,
+    chains,
+  };
 
-    const testnets = transformedChains.filter((chain) =>
-      testnetKeywords.some((keyword) =>
-        chain.name.toLowerCase().includes(keyword),
-      ),
-    );
+  await fs.mkdir(path.dirname(filePath), { recursive: true });
+  await fs.writeFile(filePath, JSON.stringify(payload, null, 2));
 
-    const ROOT_DIR = path.resolve(__dirname, "..");
+  console.log(`✅ ${type} list saved: ${filePath}`);
+  return true;
+}
 
-    // -------------------------
+async function fetchAndSaveChainList() {
+  try {
+    console.log("🔄 Fetching chain list...");
 
-    // Save mainnets
-
-    // -------------------------
+    const rawChains = await fetchChains();
+    const transformed = transformChains(rawChains);
+    const { mainnets, testnets } = splitChains(transformed);
 
     const mainnetPath = path.resolve(
       ROOT_DIR,
-
       process.env.CHAIN_LIST_MAINNET_OUTPUT_PATH,
     );
 
-    const mainnetData = {
-      name: `${process.env.CHAIN_LIST_NAME} - mainnet,`,
-
-      timestamp: new Date().toISOString(),
-
-      totalChains: mainnets.length,
-
-      chains: mainnets,
-    };
-
-    let writeMainnet = true;
-
-    if (fs.existsSync(mainnetPath)) {
-      const existing = JSON.parse(fs.readFileSync(mainnetPath, "utf-8"));
-
-      const existingIds = existing.chains.map((c) => c.id);
-
-      const newIds = mainnets.map((c) => c.id);
-
-      writeMainnet =
-        existingIds.length !== newIds.length ||
-        !existingIds.every((id, index) => id === newIds[index]);
-    }
-
-    if (writeMainnet) {
-      fs.mkdirSync(path.dirname(mainnetPath), { recursive: true });
-
-      fs.writeFileSync(mainnetPath, JSON.stringify(mainnetData, null, 2));
-
-      console.log(`✅ mainnet list saved: ${mainnetPath}`);
-    } else {
-      console.log("✅ mainnet list unchanged, no file written.");
-    }
-
-    // -------------------------
-
-    // Save testnets
-
-    // -------------------------
-
     const testnetPath = path.resolve(
       ROOT_DIR,
-
       process.env.CHAIN_LIST_TESTNET_OUTPUT_PATH,
     );
 
-    const testnetData = {
-      name: `${process.env.CHAIN_LIST_NAME} - testnet`,
+    await Promise.all([
+      saveChainList({
+        filePath: mainnetPath,
+        chains: mainnets,
+        type: "mainnet",
+      }),
+      saveChainList({
+        filePath: testnetPath,
+        chains: testnets,
+        type: "testnet",
+      }),
+    ]);
 
-      timestamp: new Date().toISOString(),
-
-      totalChains: testnets.length,
-
-      chains: testnets,
-    };
-
-    let writeTestnet = true;
-
-    if (fs.existsSync(testnetPath)) {
-      const existing = JSON.parse(fs.readFileSync(testnetPath, "utf-8"));
-
-      const existingIds = existing.chains.map((c) => c.id);
-
-      const newIds = testnets.map((c) => c.id);
-
-      writeTestnet =
-        existingIds.length !== newIds.length ||
-        !existingIds.every((id, index) => id === newIds[index]);
-    }
-
-    if (writeTestnet) {
-      fs.mkdirSync(path.dirname(testnetPath), { recursive: true });
-
-      fs.writeFileSync(testnetPath, JSON.stringify(testnetData, null, 2));
-
-      console.log(`✅ testnet list saved: ${testnetPath}`);
-    } else {
-      console.log("✅ testnet list unchanged, no file written.");
-    }
-  } catch (err) {
-    console.error("❌ Error fetching chainlist:", err?.message);
+    console.log("✅ Chain list sync complete.");
+  } catch (error) {
+    console.error("❌ Error fetching chainlist:", error?.message);
+    process.exitCode = 1;
   }
-};
+}
 
 if (require.main === module) {
   fetchAndSaveChainList();
