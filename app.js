@@ -5,6 +5,7 @@ const app = express();
 const path = require("path");
 
 const chainlistRoutes = require("./routes/chainlist.routes");
+const { errorHandler } = require("./middleware/errorHandler.middleware");
 
 require("dotenv").config();
 
@@ -12,6 +13,8 @@ app.use(express.static(path.resolve("public")));
 
 app.use(express.json());
 app.use("/chainlist", chainlistRoutes);
+
+app.use(errorHandler);
 
 const PORT = process.env.PORT || 3000;
 
