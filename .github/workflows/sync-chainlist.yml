@@ -2,8 +2,8 @@ name: Sync Chainlist
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch: 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   sync-chainlist:
@@ -46,7 +46,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: main
           head: sync-chainlist
-          title: "Sync chainlist $(date -u +"%Y-%m-%d")"
+          title: "Sync chainlist"
           body: |
             This PR updates the chainlist assets.
             - Updated at: $(date -u +"%Y-%m-%d %H:%M:%S UTC")
