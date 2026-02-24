@@ -1,11 +1,18 @@
-const allowedTypes = ["mainnet", "testnet"];
+const ALLOWED_TYPES = ["mainnet", "testnet"];
 
 module.exports.validateChainType = (req, res, next) => {
   const { type } = req.params;
-  if (!allowedTypes.includes(type.toLowerCase())) {
+  const normalizedType = String(type).toLowerCase();
+
+  if (!ALLOWED_TYPES.includes(normalizedType)) {
     return res.status(400).json({
-      error: `Invalid type parameter. Allowed values: ${allowedTypes.join(", ")},`,
+      status: "error",
+      code: "INVALID_CHAIN_TYPE",
+      message: `Invalid 'type' parameter: '${type}'. Allowed values are: ${ALLOWED_TYPES.join(
+        ", ",
+      )}.`,
     });
   }
+
   next();
 };
