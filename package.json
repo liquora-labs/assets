@@ -16,6 +16,7 @@
     "axios": "^1.13.5",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "rate-limiter-flexible": "^9.1.1"
   }
 }

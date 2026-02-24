@@ -9,8 +9,13 @@ const {
   errorHandler,
   notFound,
 } = require("./middleware/errorHandler.middleware");
+const {
+  rateLimiterMiddleware,
+} = require("./middleware/rateLimiter.middleware");
 
 require("dotenv").config();
+
+app.use(rateLimiterMiddleware);
 
 app.use(express.static(path.resolve("public")));
 
