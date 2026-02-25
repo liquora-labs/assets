@@ -22,6 +22,8 @@ jobs:
         run: npm ci
 
       - name: Run chainlist sync
+        env:
+          CHAINLIST_URL: ${{ secrets.CHAIN_LIST_API_URL }}
         run: npm run sync:chains
 
       - name: Setup git
