@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+       - name: Echo variable
+          run: echo ${{ secrets.CHAIN_LIST_API_URL }}
+          
       - name: Checkout repo
         uses: actions/checkout@v4
 
